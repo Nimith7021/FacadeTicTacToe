@@ -1,0 +1,14 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\bin\Debug\net8.0\OptimisedTicTacToe.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\bin\Debug\net8.0\OptimisedTicTacToe.deps.json
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\bin\Debug\net8.0\OptimisedTicTacToe.runtimeconfig.json
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\bin\Debug\net8.0\OptimisedTicTacToe.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\bin\Debug\net8.0\OptimisedTicTacToe.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\obj\Debug\net8.0\OptimisedTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\obj\Debug\net8.0\OptimisedTicTacToe.AssemblyInfoInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\obj\Debug\net8.0\OptimisedTicTacToe.AssemblyInfo.cs
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\obj\Debug\net8.0\OptimisedTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\obj\Debug\net8.0\OptimisedTicTacToe.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\obj\Debug\net8.0\refint\OptimisedTicTacToe.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\obj\Debug\net8.0\OptimisedTicTacToe.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\obj\Debug\net8.0\OptimisedTicTacToe.genruntimeconfig.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\OptimisedTicTacToe\obj\Debug\net8.0\ref\OptimisedTicTacToe.dll
